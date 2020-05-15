@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589532194 source:e:\c\looppattern\pattern\index.c
+
+1589535107 source:e:\c\looppattern\pattern\main.c
+	<stdio.h>
+
